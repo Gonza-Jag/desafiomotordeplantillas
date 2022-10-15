@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Brasil",
+    "price": 16000,
+    "thumbnail": "http://cdn.shopify.com/s/files/1/0560/0152/7831/products/image_1083cd10-d2ff-4666-9393-057442c950d9.jpg?v=1660183379"
+  },
+  {
+    "id": 2,
+    "title": "Camiseta Argentina",
+    "price": 18000,
+    "thumbnail": "https://todosobrecamisetas.com/wp-content/uploads/camiseta-adidas-argentina-2022-3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Camiseta Japon",
+    "price": 12000,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/feaa31c9eda042149eabae8800e01689_9366/Camiseta_primera_equipacion_Japon_22_Azul_HC6299_01_laydown.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+  },
+  {
+    "id": 5,
+    "title": "martillo ",
+    "price": "18000",
+    "thumbnail": "http//:.."
+  }
+]
